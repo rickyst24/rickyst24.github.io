@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "07-delay-potensio",
+			"path": "../../PlatformIO/Projects/07-delay-potensio"
+		},
+		{
+			"name": "08-potensio_delay_responsive",
+			"path": "../../PlatformIO/Projects/08-potensio_delay_responsive"
+		}
+	],
+	"settings": {}
+}
